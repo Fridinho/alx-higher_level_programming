@@ -9,3 +9,88 @@ Write the name of the function in the file, without ().
 2. In the following code, do a and b point to the same object? Answer with Yes or No.
 
 3. In the following code, do a and b point to the same object? Answer with Yes or No.
+
+4. In the following code, do a and b point to the same object? Answer with Yes or No.
+
+5. In the following code, do a and b point to the same object? Answer with Yes or No.
+
+6. What do these 3 lines print?
+
+7. What do these 3 lines print?
+
+8. What do these 3 lines print?
+
+9. What do these 3 lines print?
+
+10. What do these 3 lines print?
+
+11. What do these 3 lines print?
+
+12. What do these 3 lines print?
+
+13. What do these 3 lines print?
+
+14. What does this script print?
+
+15. What does this script print?
+
+16. What does this script print?
+
+17. What does this script print?
+
+18. What does this script print?
+
+19. Write a function def copy_list(l): that returns a copy of a list.
+The input list can contain any type of objects
+Your file should be maximum 3-line long (no documentation needed)
+You are not allowed to import any module
+
+20. Is a a tuple? Answer with Yes or No
+
+21. Is a a tuple? Answer with Yes or No.
+
+22. Is a a tuple? Answer with Yes or No.
+
+23. Is a a tuple? Answer with Yes or No.
+
+24. What does this script print?
+
+25. Score: 0.0% (Checks completed: 0.0%
+
+26. What does this script print?
+
+27. Will the last line of this script print 139926795932424? Answer with Yes or No.
+
+28. Will the last line of this script print 139926795932424? Answer with Yes or No.
+
+29. Write a function magic_string() that returns a string “BestSchool” n times the number of the iteration (see code):
+Format: see example
+Your file should be maximum 4-line long (no documentation needed)
+You are not allowed to import any module
+
+30. Write a class LockedClass with no class or object attribute, that prevents the user from dynamically creating new instance attributes, except if the new instance attribute is called first_name.
+You are not allowed to import any module
+
+31. Assuming we are using a CPython implementation of Python3 with default options/configuration:
+How many int objects are created by the execution of the first line of the script? (103-line1.txt)
+How many int objects are created by the execution of the second line of the script (103-line2.txt)
+
+32. Assuming we are using a CPython implementation of Python3 with default options/configuration:
+How many int objects are created by the execution of the first line of the script? (104-line1.txt)
+How many int objects are created by the execution of the second line of the script (104-line2.txt)
+After the execution of line 3, is the int object pointed by a deleted? Answer with Yes or No (104-line3.txt)
+After the execution of line 4, is the int object pointed by b deleted? Answer with Yes or No (104-line4.txt)
+How many int objects are created by the execution of the last line of the script (104-line5.txt)
+
+33. Assuming we are using a CPython implementation of Python3 with default options/configuration:
+Before the execution of line 2 (print("Love")), how many int objects have been created and are still in memory? (105-line1.txt)
+Why? (optional blog post :))
+Hint: NSMALLPOSINTS, NSMALLNEGINTS
+
+34. Assuming we are using a CPython implementation of Python3 with default options/configuration (For answers with numbers use integers, don’t spell out the word):
+How many string objects are created by the execution of the first line of the script? (106-line1.txt)
+How many string objects are created by the execution of the second line of the script (106-line2.txt)
+After the execution of line 3, is the string object pointed by a deleted? Answer with Yes or No (106-line3.txt)
+After the execution of line 4, is the string object pointed by b deleted? Answer with Yes or No (106-line4.txt)
+How many string objects are created by the execution of the last line of the script (106-line5.txt)
+
