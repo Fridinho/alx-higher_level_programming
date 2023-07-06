@@ -47,9 +47,12 @@ We strongly encourage you to work together on test cases, so that you don’t mi
 
 6. Write a function that multiplies 2 matrices:
 Read: Matrix multiplication - only Matrix product (two matrices)
+
 Prototype: def matrix_mul(m_a, m_b):
+
 m_a and m_b must be validated with these requirements in this order
 m_a and m_b must be an list of lists of integers or floats:
+
 if m_a or m_b is not a list: raise a TypeError exception with the message m_a must be a list or m_b must be a list
 if m_a or m_b is not a list of lists: raise a TypeError exception with the message m_a must be a list of lists or m_b must be a list of lists
 if m_a or m_b is empty (it means: = [] or = [[]]): raise a ValueError exception with the message m_a can't be empty or m_b can't be empty
@@ -64,11 +67,14 @@ Prototype: def lazy_matrix_mul(m_a, m_b):
 Test cases should be the same as 100-matrix_mul but with new exception type/message
 
 8. Create a function that prints Python strings.
+
 Prototype: void print_python_string(PyObject *p);
 Format: see example
 If p is not a valid string, print an error message (see example)
 Read: Unicode HOWTO
 About:
+
 Python version: 3.4
 You are allowed to use the C standard library
 Your shared library will be compiled with this command line: gcc -shared -Wl,-soname,libPython.so -o libPython.so -fPIC -I/usr/include/python3.4 102-python.c
+
